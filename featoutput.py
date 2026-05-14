@@ -3,7 +3,6 @@ import os
 
 import torch
 
-from vggt.models.vggt import VGGT
 from vggt.utils.load_fn import load_and_preprocess_images_square
 
 
